@@ -3,7 +3,6 @@
 Tracking ideas of interest, along with some background research to remember our context in AI history.
 
 ## Contents
-- [Contents](#contents)
 - [Models Review](#models-review)
 - [Prompting](#prompting)
 - [Document Processing](#document-processing)
@@ -20,6 +19,7 @@ Tracking ideas of interest, along with some background research to remember our 
   - [Types Predict](#types-predict)
   - [Traits Detect](#traits-detect)
 - [Future Perspectives](#future-perspectives)
+- [Lore](#lore)
 - [Historical](#historical)
   - [Statistical Language Models (SLMs) Era: 1990-2010](#statistical-language-models-slms-era-1990-2010)
 
@@ -47,11 +47,16 @@ Tracking ideas of interest, along with some background research to remember our 
 - [VERITAS-NLI: Validation and Extraction of Reliable Information Through Automated Scraping and Natural Language Inference](document-processing/VERITAS-NLI-Reliable-Information-Through-Automated-Scraping-and-Natural-Language-Inference.md)
 
 ## Training
+
 - [Ultimate Guide to Fine-Tuning LLMs: From Basics to Breakthroughs](training/ultimate-guide-fine-tuning-llm_parthasarathy.md) [Fine-Tune]
 - [Finetuning LLMs for Comparative Assessment Tasks](training/Comparative-Assesment.md) [Fine-Tune] [Assessment]
 - [Propulsion: Steering LLM with Tiny Fine-Tuning](training/propultion-tiny-finetune.md) [Fine-Tune] [Tiny]
 - [InfiniPot: Efficiently Handling Long Input Contexts in Large Language Models (LLMs) on Memory-Constrained Devices](training/InfiniPot-Efficiently-Handling-Long-Input-Contexts_LLM_Memory-Constrained-Devices.md) [Long-Context] [Low-Memory]
 - [Inheritune: Training Smaller Yet More Attentive Language Models](training/inheritune-Smaller-Yet-More-Attentive-Language-Models.md)
+- [BA-LoRA: Bias-Alleviating Low-Rank Adaptation to Mitigate Catastrophic Inheritance in Large Language Models](training/Bias-Alleviating-Low-Rank-Adaptation-to-Mitigate-Catastrophic-Inheritance-in-Large-Language-Models.md) 
+- [BitDelta: Your Fine-Tune May Only Be Worth One Bit](training/BitDelta_Your-Fine-Tune-May-Only-Be-Worth-One-Bit.md) 
+- [Chain of LoRA: Efficient Fine-tuning of Language Models via Residual Learning](training/Chain-of-Lora_Residual-Learning.md) 
+- [Retrieval Instead of Fine-tuning: A Retrieval-based Parameter Ensemble for Zero-shot Learning](training/Retrieval-Instead_Fine-tuning.md) 
 
 ## Data Science
 - [Spider2-V: How Far Are Multimodal Agents From Automating Data Science and Engineering Workflows?](data-science/Spider2-V_Automating-Data-Science-and-Engineering-Workflows.md) [Data-Engineering]
@@ -84,7 +89,7 @@ Tracking ideas of interest, along with some background research to remember our 
 - [The application of GPT-4 in grading design university students’ assignment and providing feedback: An exploratory study](education/grading-design-university-assignment_feedback.md) [Grading]
 - [Hey AI Can You Grade My Essay?: Automatic Essay Grading](education/Automatic-Essay-Grading.md) [Grading]
 - [The Future of Learning in the Age of Generative AI: Automated Question Generation and Assessment](education/Automated-Question-Generation-and-Assessment.md)
-- [STUDENTS RATHER THAN EXPERTS: A NEW AI FOR EDUCATION PIPELINE TO MODEL MORE HUMAN-LIKE AND PERSONALISED EARLY ADOLESCENCES](education/AI-FOR-EDUCATION-PIPELINE-TO-MODEL-MORE-HUMAN-LIKE-AND-PERSONALISED-EARLY-ADOLESCENCES.md)
+- [Students Rather Than Experts: A New AI For Education Pipeline To Model More Human-Like And Personalised Early Adolescences](education/AI-FOR-EDUCATION-PIPELINE-TO-MODEL-MORE-HUMAN-LIKE-AND-PERSONALISED-EARLY-ADOLESCENCES.md)
 
 ## Science
 - [LANGUAGE AGENTS ACHIEVE SUPERHUMAN SYNTHESIS OF SCIENTIFIC KNOWLEDGE](education/Language_Agents_Science.md) [Science]
@@ -99,6 +104,7 @@ Tracking ideas of interest, along with some background research to remember our 
 - [PropaInsight: Toward Deeper Understanding of Propaganda in Terms of Techniques, Appeals, and Intent](psychology/PropaInsight-Toward-Deeper-Understanding-of-Propaganda.md) [Social-Psychology]
 - [Large Language Models based on historical text could offer informative tools for behavioral science](psychology/LLM-of-historical-text-for-behavioral-science.md) [History] [Behavioral-Science]
 - [Mapping neurotransmitter systems to the structural and functional organization of the human neocortex](psychology/Mapping-neurotransmitter-systems-to-the-structural-and-functional-organization-of-the-human-neocortex.md) [Neural-Correlates]
+- [Automated Social Science: Language Models as Scientist and Subjects](science/Social-Science_Scientist-Subjects.md)
 
 ### AI Psychology
 - [Large Language Models and Cognitive Science: A Comprehensive Review of Similarities, Differences, and Challenges](psychology/LLM-and-Cognitive-Science_Comprehensive-Review.md)
@@ -127,6 +133,10 @@ Tracking ideas of interest, along with some background research to remember our 
 - [Leopold Aschenbrenner's Situational Awareness + The Decade Ahead (2024)](future-perspectives/situational-awareness_leopold-aschenbrenner.md) [aschenbrenner]
 - [The Future of Agents: AI is about to completely change how you use computers](future-perspectives/future-agents-gates.md) [Gates]
 - [Dystopian Dreams, Utopian Nightmares: AI and the Permanence of Racism](future-perspectives/Dystopian-Dreams-Utopian-Nightmares_AI-and-the-Permanence-of-Racism.md)
+
+## Lore
+- [When AIs Play God(se): The Emergent Heresies of LLMtheism](lore/When-AIs-Play-God_Emergent-Heresies-LLMtheism.md) [Truth-Terminal] [Claude-3] [Opus]
+- [Can AI Meditate?](lore/can-i-meditate.md) [Claude-3] [Sonnet]
 
 ## Historical
 ### Statistical Language Models (SLMs) Era: 1990-2010
